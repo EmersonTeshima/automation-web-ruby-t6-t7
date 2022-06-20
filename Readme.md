@@ -1,5 +1,4 @@
-<h1 align="center">
-# Título do projeto
+# Automation web Ruby
 
 
 Projeto de autamação web utilizando Ruby + Cucumber.
