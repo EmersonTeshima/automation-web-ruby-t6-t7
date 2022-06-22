@@ -12,3 +12,5 @@ after do |scenario|
         pritn_screen(scenario_name.downcase!, 'Sucess')
     end
 end
+
+
