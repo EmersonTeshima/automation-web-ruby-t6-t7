@@ -44,7 +44,9 @@ reports (onde ficarão as capturas de tela)<br/>
 <br/>
 <br/>
 
- *Projeto final - Curso QA Turma T6 módulo 3 - Qa.Coders*
+<a align="center"><a href="https://www.qacoders.com.br/">Qa.Coders</a>
+
+ *Projeto final - Curso QA Turma T6 módulo 3 - <a align="center"><a href="https://www.qacoders.com.br/">Qa.Coders</a>*
  
  
  *Autor: Emerson Teshima*
