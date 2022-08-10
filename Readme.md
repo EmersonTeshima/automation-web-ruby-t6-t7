@@ -50,16 +50,23 @@ reports (onde ficarão as capturas de tela)<br/>
 
 
  *Projeto final - Curso QA Turma T6 módulo 3*
- <span>
+<span>
  <a href="https://www.qacoders.com.br/" target="_blank">
  <img height="25" width="" src="https://user-images.githubusercontent.com/99686967/184025748-437c7b23-8b79-4969-99b9-e17a44d03f41.png" style="max-width:100%;"/></a>
 </span>
  
  *Autor: Emerson Teshima*
- <span>
+<span>
  <a href="https://www.linkedin.com/in/emerson-teshima/" target="_blank">
  <img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;"/></a>
- </span>
+</span>
+
+<br/>
+<br/>
+<br/>
+<br/>
  
+Segue abaixo relatório capturado pelo projeto:
  
-         
+![html](https://user-images.githubusercontent.com/99686967/184027457-ccc1212e-3f4a-479d-bb18-104ce7838c0b.png)
+![html_print](https://user-images.githubusercontent.com/99686967/184027470-0ab11f32-8f77-4e7c-ad81-3573f4d367f4.png)     
