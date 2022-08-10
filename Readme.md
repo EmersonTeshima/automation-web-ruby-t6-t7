@@ -6,7 +6,7 @@
 
 ## Descrição do Projeto
 
-<p align="center">🚀 Projeto da Aula de QA, no módulo de Automação com Ruby + Cucumber, ministrada pelo professor William Alves da Silva, CEO do Projeto Qa.Coders. Este projeto visa abrir a home page https://www.qacoders.com.br, tirar print, da primeira página onde tem a descrição "Aprenda na prática" e validar, bem como em seguida, abrir cada item do menu, "Sobre nós, Depoimentos, Parceiros e Fale Conosco", com respectivas "capturas de telas" e validações. Sendo armazenado em relátorios no arquivo reports. </p>
+<p align="center">🚀 Projeto da Aula de QA, no módulo de Automação com Ruby + Cucumber, ministrada pelo professor William Alves da Silva, CEO do Projeto Qa.Coders. Este projeto visa abrir a home page https://www.qacoders.com.br, tirar print, da primeira página onde tem a descrição "Aprenda na prática" e validar, bem como em seguida, abrir cada item do menu, "Sobre nós, Depoimentos, Parceiros e Fale Conosco", com respectivas "capturas de telas" e validações. Sendo armazenado em relátorios na pasta reports. </p>
 
 <h1 align="center"></a>
 <span>
