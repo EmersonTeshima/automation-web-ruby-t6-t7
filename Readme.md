@@ -33,9 +33,9 @@ reports (onde ficarão as capturas de tela)<br/>
 
 
 <span>                     
-<img align="center" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-<img align="center" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
-<img align="center" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
+<img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+<img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
+<img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
 </span>
 
 
