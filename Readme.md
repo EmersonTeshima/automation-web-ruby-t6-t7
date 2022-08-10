@@ -43,8 +43,9 @@ reports (onde ficarão as capturas de tela)<br/>
 <br/>
 <br/>
 <br/>
+<div align="center">fdgsegseg<img src="https://user-images.githubusercontent.com/99686967/184021796-9ab27731-56b5-4873-9ba4-044a58d60577.png" />
+</div>
 
-<a align="center"><a href="https://www.qacoders.com.br/">Qa.Coders</a>
 
  *Projeto final - Curso QA Turma T6 módulo 3 - <a align="center"><a href="https://www.qacoders.com.br/">Qa.Coders</a>*
  
