@@ -24,9 +24,7 @@
 
 
 
-- Criar pasta no diretório raiz do projeto:
-
-reports (onde ficarão as capturas de tela)<br/>
+- Criar pasta no diretório raiz do projeto: reports (onde ficarão as capturas de tela)<br/>
 
 
 - Rodar o comando no terminal: bundler install (para instalar dependências necessárias)
