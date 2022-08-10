@@ -44,5 +44,7 @@ bundler exec cucumber<br/>
 </span>
           
           
-                   
-          
+ *Autor: Emerson Teshima* 
+ <a href="https://www.linkedin.com/in/emerson-teshima/" target="_blank">
+ <img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;"/>
+         
