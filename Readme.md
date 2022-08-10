@@ -54,11 +54,15 @@ require 'pry'<br/>
 
 - Inserir o código abaixo na pasta env.rb:
 
-Capybara.configure do |config|
-    config.default_driver = :selenium_chrome
-    config.app_host = "http://www.google.com.br"
-    config.default_max_wait_time = 10
-end
+Capybara.configure do |config|<br/>
+    config.default_driver = :selenium_chrome<br/>
+    config.app_host = "http://www.google.com.br"<br/>
+    config.default_max_wait_time = 10<br/>
+end<br/>
+
+- E por fim o comando para rodar o código:
+
+bundler exec cucumber<br/>
 
 
 
