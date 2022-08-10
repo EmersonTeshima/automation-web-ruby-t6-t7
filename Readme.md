@@ -43,12 +43,13 @@ reports (onde ficarão as capturas de tela)<br/>
 <br/>
 <br/>
 <br/>
-<div align="center">fdgsegseg<img src="https://user-images.githubusercontent.com/99686967/184021796-9ab27731-56b5-4873-9ba4-044a58d60577.png" />
-</div>
 
 
- *Projeto final - Curso QA Turma T6 módulo 3 - <a align="center"><a href="https://www.qacoders.com.br/">Qa.Coders</a>*
- 
+ *Projeto final - Curso QA Turma T6 módulo 3*
+ <span>
+ <a href="https://www.qacoders.com.br/" target="_blank">
+ <img height="80" width="100" src="https://user-images.githubusercontent.com/99686967/184023254-96f56c73-8dca-4016-b537-51849fea8957.png" style="max-width:100%;"/></a>
+</span>
  
  *Autor: Emerson Teshima*
  <span>
