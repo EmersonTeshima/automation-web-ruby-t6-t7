@@ -12,16 +12,16 @@ Então devo visualizar a informação "Aprenda na prática."
 Cenario: Validação Menu Sobre Nós
 
 Dado que eu acesse a home page do projeto Qa.Coders
-Quando clico no menu "Sobre nós"
-Então devo obter o conteúdo "Sobre nós"
+Quando clico no menuu "Sobre nós"
+Então devo obter o conteúdoo "Sobre nós"
 
 
 
 Cenario: Validação Menu Depoimentos
 
 Dado que eu acesse a home page do projeto Qa.Coders
-Quando clico no menu "Depoimentos"
-Então devo obter o conteúdo "Depoimentos"
+Quando clicar no menu "Depoimentos"
+Então devo visualizar o menu "Depoimentos"
 
 
 
