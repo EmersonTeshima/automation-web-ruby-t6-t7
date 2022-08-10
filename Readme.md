@@ -33,9 +33,9 @@ reports (onde ficarão as capturas de tela)<br/>
 
 
 <span>                     
-<img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-<img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
-<img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
+<a href="https://www.ruby-lang.org/pt/" target="_blank"><img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /></a>
+<a href="https://cucumber.io/" target="_blank"><img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" /></a>
+<a href="https://rspec.info/" target="_blank"><img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" /></a>
 </span>
 
 
