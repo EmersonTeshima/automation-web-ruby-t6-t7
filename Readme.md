@@ -8,8 +8,12 @@
 
 <p align="center">🚀 Projeto da Aula de QA, no módulo de Automação com Ruby + Cucumber, ministrada pelo professor William Alves da Silva, CEO do Projeto Qa.Coders. Este projeto visa abrir a home page https://www.qacoders.com.br, tirar print, da primeira página onde tem a descrição "Aprenda na prática" e validar, bem como em seguida, abrir cada item do menu, "Sobre nós, Depoimentos, Parceiros e Fale Conosco", com respectivos "prints" e validações. Sendo armazenado em relátorios no arquivo reports. </p>
 
-<h1 align="center"><a href="https://www.qacoders.com.br/">Qa.Coders</a></h1>
-
+<h1 align="center"></a>
+<span>
+ <a href="https://www.qacoders.com.br/" target="_blank">
+ <img height="35" width="" src="https://user-images.githubusercontent.com/99686967/184025748-437c7b23-8b79-4969-99b9-e17a44d03f41.png" style="max-width:100%;"/></a>
+</span>
+</h1>
 
 ### Pré-requisitos e instruções para rodar o código:
 <img height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/> [Ruby](https://rubyinstaller.org/downloads/) - Instalar a versão recomendada marcada por => da sessão <b>WITH DEVKIT</b>           
@@ -48,7 +52,7 @@ reports (onde ficarão as capturas de tela)<br/>
  *Projeto final - Curso QA Turma T6 módulo 3*
  <span>
  <a href="https://www.qacoders.com.br/" target="_blank">
- <img height="80" width="100" src="https://user-images.githubusercontent.com/99686967/184023254-96f56c73-8dca-4016-b537-51849fea8957.png" style="max-width:100%;"/></a>
+ <img height="25" width="" src="https://user-images.githubusercontent.com/99686967/184025748-437c7b23-8b79-4969-99b9-e17a44d03f41.png" style="max-width:100%;"/></a>
 </span>
  
  *Autor: Emerson Teshima*
