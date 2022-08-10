@@ -18,47 +18,16 @@
 
 - Instalar Cucumber pelo comando : gem install cucumber e iniciando pelo comando: Cucumber --init 
 
-- Criar pastas dentro da pasta features:
 
-pages<br/>
-specs (specs: onde vai estar as especificações do projeto)<br/>
 
-reports (onde ficam as capturas de tela)<br/>
+- Criar pasta no diretório raiz do projeto:
 
-- Dentro da pasta .gitignore:<br/>
-*.log<br/>
-reports<br/>
-gemfile.lock<br/>
-
-- Inserir os arquivos de depêndencias abaixo na pasta gemfile:
-
-source 'https://rubygems.org/'<br/>
-gem 'capybara'<br/>
-gem 'chromedriver-helper'<br/>
-gem 'cucumber'<br/>
-gem 'rspec'<br/>
-gem 'selenium-webdriver'<br/>
-gem 'site_prism'<br/>
-gem 'pry'<br/>
-
-- Inserir os requerimentos abaixo, na pasta env.rb:
-
-require 'capybara/cucumber'<br/>
-require 'capybara/rspec'<br/>
-require 'selenium-webdriver'<br/>
-require 'site_prism'<br/>
-require 'pry'<br/>
+reports (onde ficarão as capturas de tela)<br/>
 
 
 - Rodar o comando no terminal: bundler install (para instalar dependências necessárias)
 
-- Inserir o código abaixo na pasta env.rb:
 
-Capybara.configure do |config|<br/>
-    config.default_driver = :selenium_chrome<br/>
-    config.app_host = "http://www.google.com.br"<br/>
-    config.default_max_wait_time = 10<br/>
-end<br/>
 
 - E por fim o comando para rodar o código:
 
