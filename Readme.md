@@ -29,22 +29,29 @@ reports (onde ficarão as capturas de tela)<br/>
 
 
 
-- E por fim o comando para rodar o código:
-
-bundler exec cucumber<br/>
-
-
-
+- E por fim o comando para rodar o código: bundler exec cucumber<br/>
 
 
 <span>                     
-<img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-<img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
-<img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
+<img align="center" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+<img align="center" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
+<img align="center" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
 </span>
-          
-          
- *Autor: Emerson Teshima* 
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+ *Projeto final - Curso QA Turma T6 módulo 3 - Qa.Coders*
+ 
+ 
+ *Autor: Emerson Teshima*
+ <span>
  <a href="https://www.linkedin.com/in/emerson-teshima/" target="_blank">
- <img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;"/>
+ <img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;"/></a>
+ </span>
+ 
+ 
          
